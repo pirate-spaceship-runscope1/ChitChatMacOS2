@@ -157,7 +157,7 @@
 				TargetAttributes = {
 					223C31941B07B66500E09138 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 29UTQE9JS9;
+						DevelopmentTeam = BGSR8DRP9M;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -298,7 +298,7 @@
 				CODE_SIGN_IDENTITY = "Developer ID Application";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 29UTQE9JS9;
+				DEVELOPMENT_TEAM = BGSR8DRP9M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
@@ -320,7 +320,7 @@
 				CODE_SIGN_IDENTITY = "Developer ID Application";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 29UTQE9JS9;
+				DEVELOPMENT_TEAM = BGSR8DRP9M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
